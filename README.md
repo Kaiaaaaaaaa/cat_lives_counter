@@ -1,3 +1,5 @@
+## Cat_lives_counter
+
 Life counter for cat lives (default 9)
 
 A simple python scrip that decreases the life total (tracked in a txt file) or resets it back to 9 (because of cat) depending on which args the python file is run with.
